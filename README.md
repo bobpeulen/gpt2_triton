@@ -1,4 +1,4 @@
-# ** Deploying GPT2 on NVIDIA Triton Inference Server using OCI Data Science**
+# **Deploying GPT2 on NVIDIA Triton Inference Server using OCI Data Science**
 
 ## Files:
 - Dockerfile --> To build NVIDIA Triton Inference server
